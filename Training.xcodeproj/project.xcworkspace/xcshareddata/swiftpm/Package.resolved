@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "flanimatedimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flipboard/FLAnimatedImage",
+      "state" : {
+        "revision" : "e7f9fd4681ae41bf6f3056db08af4f401d61da52",
+        "version" : "1.0.16"
+      }
+    },
+    {
+      "identity" : "iglistkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Instagram/IGListKit",
+      "state" : {
+        "revision" : "36da20119ca70c0a8b46ef0acc93b3bcb5a9ea69",
+        "version" : "4.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
