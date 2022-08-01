@@ -23,9 +23,6 @@ enum URLType {
     }
 }
 
-
-
-
 struct GIFView: UIViewRepresentable {
     private var type: URLType
 
