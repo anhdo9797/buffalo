@@ -213,8 +213,9 @@
 				E3EA96B2288F8FFC00069A04 /* SoccerModel.swift */,
 				E3EBEB9D288FD41D0030BB69 /* PopularVideoModel.swift */,
 			);
-			path = Model;
-			sourceTree = "<group>";
+			name = Model;
+			path = Training/Models;
+			sourceTree = SOURCE_ROOT;
 		};
 		E32526F2288941E800817680 /* View */ = {
 			isa = PBXGroup;
