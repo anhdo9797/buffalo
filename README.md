@@ -23,3 +23,7 @@ This is project training [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - Share: function, action common
 - View: Screens
 - ViewModels
+
+## Libraries:
+
+- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)
